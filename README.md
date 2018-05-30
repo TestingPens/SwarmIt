@@ -17,6 +17,7 @@ I tried simulating human movement of the mouse and clicking by altering accelera
 - Cnee installed
 - Record mouse movements with Cnee for clicking buttons such as registration and on ReCaptcha
 - IBM Watson API key and password
+- A text file containing a large number of unique usernames (I used rsmangler to generate thousands)
 - Lots of patience
 
 I'm sure there are far better ways of doing this so please feel free to contribute.
